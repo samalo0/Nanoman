@@ -1,5 +1,5 @@
 # Nanoman
-Megaman Fan Game on the Android Platform based on Mega Man 1.
+Android version of the NES classic, Megaman.
 
 Minimum Android version is 19 (Kitkat 4.4).
 It is possible to use a game pad (tested with a few Logitech) by going into setup and defining the buttons.
